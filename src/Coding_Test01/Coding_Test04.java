@@ -1,3 +1,5 @@
+package Coding_Test01;
+
 import java.util.Scanner;
 
 // Q4. 두 정수를 입력 받아서, 두 수중에서 큰 값을 구하는
